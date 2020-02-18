@@ -12,9 +12,10 @@
     "proxy": "gulp watch-proxy",
     "static:dev": "gulp static-dev",
     "static:build": "gulp static-build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d public",
     "imgs": "gulp imagemin"
   },
+  "homepage": "bengyphan.github.io/restaurantApp",
   "author": "",
   "license": "ISC",
   "devDependencies": {

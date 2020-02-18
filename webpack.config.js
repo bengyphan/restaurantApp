@@ -22,7 +22,7 @@ module.exports = env => {
 		},
 		output: {
 			path: path.resolve(__dirname, 'public/js/dist'),
-			publicPath: '/webpack-demo/',
+			publicPath: '/restaurantApp/',
 			filename: '[name].js'
 		},
 		resolve: {
